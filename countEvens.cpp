@@ -9,5 +9,5 @@ int countEvens(int a[], int size) {
             numEvens++;
         }
     }
-  return numEvens; // STUB!  Replace with correct code.
+  return numEvens; 
 }

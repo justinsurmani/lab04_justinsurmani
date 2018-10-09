@@ -27,9 +27,8 @@ else
 return true;
 }
 bool isPrime(int x) { 
-	if(x<=0||x==1)
+	if(x<=1)
 	return false;
- 
  
  int count = 0;
 for(int i=2; i<x; i++)
